@@ -1,2 +1,8 @@
 hello world
+<<<<<<< HEAD
 hello beijing//modify a line in master||new_branch add
+=======
+hello beijing//new_branch add
+new_branch modify
+new_branch second modify 
+>>>>>>> new_branch
