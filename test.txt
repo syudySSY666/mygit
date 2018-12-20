@@ -1,2 +1,2 @@
 hello world
-hello beijing//modify a line in master
+hello beijing//modify a line in master||new_branch add
