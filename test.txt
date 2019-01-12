@@ -5,6 +5,7 @@ new_branch second modify
 new_branch third modify
 
 guoy add a line
+fang add a line
 guo add second line
 guo add third line
 guo add fource line
