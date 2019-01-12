@@ -3,3 +3,5 @@ hello beijing//new_branch add
 new_branch modify
 new_branch second modify 
 new_branch third modify
+
+fang add a line
